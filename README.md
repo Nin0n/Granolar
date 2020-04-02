@@ -1,6 +1,6 @@
-# Granolar
+# Granular
 
-Granolar is a machine learning project that reconstructs grains of sound, it is executable with Python3.
+Granular is a machine learning project that reconstructs grains of sound, it is executable with Python3.
 
 ## Installation
 
